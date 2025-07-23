@@ -19,10 +19,10 @@
 
 I'm **Ong Jun Kai Clemen**, a passionate developer and NUS Computer Science undergraduate with interests in full-stack development, machine learning, and impactful tech for good.
 
-- 🎓 Studying at National University of Singapore (GPA: 5.0/5.0)
+- 🎓 Studying at National University of Singapore
 - 💡 I love building apps that make a difference—from health to sports to cybersecurity.
-- 🏆 Hackathon Finalist and Award Winner
-- ⚡ Fun fact: I play floorball and love organizing team games!
+- 🏆 Software Engineer | Artificial Intelligence Engineer
+- ⚡ Fun fact: I love playing sports
 
 ---
 
@@ -36,7 +36,8 @@ I'm **Ong Jun Kai Clemen**, a passionate developer and NUS Computer Science unde
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🌟 Featured Projects
