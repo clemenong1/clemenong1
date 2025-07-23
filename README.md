@@ -98,40 +98,48 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 <a href="https://www.linkedin.com/in/clemenong1/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
 </a>
-<a href="https://instagram.com/your-instagram-handle">
+<a href="https://instagram.com/clemenong">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
-</a>
-<a href="https://twitter.com/your-twitter-handle">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="40"/>
-</a>
-<a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio" height="40"/>
 </a>
 
 ### 🎯 Open For
 
-```yaml
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      
+      <!-- Left Column: Social Links -->
+      <h3>🤝 Connect & Collaborate</h3>
+      <a href="https://www.linkedin.com/in/clemenong1/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+      </a>
+      <a href="https://instagram.com/clemenong">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+      </a>
+      <!-- Add other socials as needed -->
+    </td>
+    
+    <td align="center" valign="top" width="50%">
+      <!-- Right Column: Open For -->
+      <h3>🎯 Open For</h3>
+      <pre>
 Collaboration:
-  - Open Source Projects
-  - Hackathons & Competitions  
-  - Mobile App Development
-  - AI/ML Research Projects
-  - Tech for Good Initiatives
+- Open Source Projects
+- Hackathons & Competitions
+- Mobile App Development
+- AI/ML Research Projects
+- Tech for Good Initiatives
 
 Opportunities:
-  - Software Engineering Internships
-  - Full-Stack Development Roles
-  - AI Engineer Positions
-  - Freelance Projects
-  - Mentorship & Learning
-```
-
----
-
-<!-- Compact Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemenong1/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clemenongjunkai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+- Software Engineering Internships
+- Full-Stack Development Roles
+- AI Engineer Positions
+- Freelance Projects
+- Mentorship & Learning
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ### 💌 Let's Build Something Amazing Together!
 
@@ -142,7 +150,7 @@ Opportunities:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=667eea&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=clemenong1&label=Profile%20Views&color=667eea&style=flat-square)
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer Wave"/>
