@@ -11,14 +11,18 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ## 👋 About Me
 I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergraduate with interests in full-stack development, machine learning, and impactful tech for good.
 - 🎓 Studying at National University of Singapore
 - 💡 I love building apps that make a difference—from health to sports to cybersecurity.
 - 🏆 Software Engineer | Artificial Intelligence Engineer
 - ⚡ Fun fact: I love playing sports
+
 ---
+
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,22 +34,30 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ---
+
 ## 🌟 Featured Projects
+
 ### 🩺 NUS LifeHack: Mobile Health Monitoring
 - Award: Most Impressive Usage of Data
 - Real-time app with geographic mapping for health responses.  
 - Stack: React Native, Firebase
+
 ### 🏟️ NUS Orbital Apollo: Sports Facility Optimizer
 - Mobile app to monitor real-time facility occupancy using geofencing.  
 - Stack: React Native, Firebase
+
 ### ⚓ Maritime Hackathon: Ship Repair Classifier
 - ML model >90% accuracy for ship repair need classification.  
 - Stack: Python, Data Science
+
 ### 🦾 DSTA BrainHack: Cyber Awareness App
 - Finalist; built a Figma-prototyped mobile app to fight cyber threats.  
 - Stack: React Native, Firebase
+
 ---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_title=true" height="165">
