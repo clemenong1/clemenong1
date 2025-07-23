@@ -99,12 +99,12 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
 </a>
 <a href="https://instagram.com/clemenong">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clemenong1&theme=react-dark" height="200"/>
 </a>
 
 <h3 align="center">🎯 Open To</h3>
 
-<table width="100%" style="width:100%; font-size:1.5em;">
+<table>
   <tr>
     <td valign="top" width="50%">
       <h4>🤝 <b>Collaboration</b></h4>
