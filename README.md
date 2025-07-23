@@ -102,41 +102,29 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
 </a>
 
-### 🎯 Open For
+<h3 align="center">🎯 Open To</h3>
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
-      
-      <!-- Left Column: Social Links -->
-      <h3>🤝 Connect & Collaborate</h3>
-      <a href="https://www.linkedin.com/in/clemenong1/">
-        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-      </a>
-      <a href="https://instagram.com/clemenong">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
-      </a>
-      <!-- Add other socials as needed -->
+    <td valign="top" width="50%">
+      <h4>🤝 <b>Collaboration</b></h4>
+      <ul>
+        <li>Open Source Projects</li>
+        <li>Hackathons & Competitions</li>
+        <li>Mobile App Development</li>
+        <li>AI/ML Research Projects</li>
+        <li>Tech for Good Initiatives</li>
+      </ul>
     </td>
-    
-    <td align="center" valign="top" width="50%">
-      <!-- Right Column: Open For -->
-      <h3>🎯 Open For</h3>
-      <pre>
-Collaboration:
-- Open Source Projects
-- Hackathons & Competitions
-- Mobile App Development
-- AI/ML Research Projects
-- Tech for Good Initiatives
-
-Opportunities:
-- Software Engineering Internships
-- Full-Stack Development Roles
-- AI Engineer Positions
-- Freelance Projects
-- Mentorship & Learning
-      </pre>
+    <td valign="top" width="50%">
+      <h4>🚀 <b>Opportunities</b></h4>
+      <ul>
+        <li>Software Engineering Internships</li>
+        <li>Full-Stack Development Roles</li>
+        <li>AI Engineer Positions</li>
+        <li>Freelance Projects</li>
+        <li>Mentorship & Learning</li>
+      </ul>
     </td>
   </tr>
 </table>
