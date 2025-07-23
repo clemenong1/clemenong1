@@ -67,7 +67,8 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 - Stack: React Native, Firebase
 
 ### 🏟️ NUS Orbital Apollo: Sports Facility Optimizer
-- Mobile app to monitor real-time facility occupancy using geofencing.  
+- Mobile app to monitor real-time facility occupancy using geofencing.
+- Implemented AI image verification and chatbot
 - Stack: React Native, Firebase
 
 ### ⚓ Maritime Hackathon: Ship Repair Classifier
