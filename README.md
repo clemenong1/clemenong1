@@ -149,33 +149,6 @@ Opportunities:
 
 ---
 
-<div align="center">
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge" alt="Profile Views" height="35"/>
-
----
-
-### ⭐ From [Clemen](https://github.com/your-github-username) 
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" height="28"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" height="28"/>
-
----
-
-<p align="center">
-  <i>"Relentless Curiosity, Boundless Innovation."</i>
-</p>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer Wave"/>
-
-</div>
-
----
-
-### 🚀 Alternative Compact Version
-
 ## 🤝 Connect & Collaborate
 
 <div align="center">
@@ -195,5 +168,8 @@ Opportunities:
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=667eea&style=flat-square)
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer Wave"/>
 
 </div>
