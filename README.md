@@ -104,7 +104,7 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 
 <h3 align="center">🎯 Open To</h3>
 
-<table width="100%" style="width:100%; font-size:1.15em;">
+<table width="100%" style="width:100%; font-size:1.5em;">
   <tr>
     <td valign="top" width="50%">
       <h4>🤝 <b>Collaboration</b></h4>
