@@ -104,9 +104,9 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 
 <h3 align="center">🎯 Open To</h3>
 
-<table>
+<table width="100%" style="width:100%; font-size:1.15em;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       <h4>🤝 <b>Collaboration</b></h4>
       <ul>
         <li>Open Source Projects</li>
@@ -116,7 +116,7 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
         <li>Tech for Good Initiatives</li>
       </ul>
     </td>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       <h4>🚀 <b>Opportunities</b></h4>
       <ul>
         <li>Software Engineering Internships</li>
