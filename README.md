@@ -108,25 +108,6 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
   <img src="https://img.shields.io/badge/PORTFOLIO-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio" height="40"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### 💌 Let's Build Something Amazing Together!
-
-*"The future belongs to those who believe in the beauty of their dreams."*
-
----
-
-### 📬 Get In Touch
-
-📧 **Email:** [clemenongjunkai@gmail.com](mailto:clemenongjunkai@gmail.com)
-🌐 **Location:** Available for remote collaboration worldwide
-
----
-
 ### 🎯 Open For
 
 ```yaml
@@ -145,13 +126,7 @@ Opportunities:
   - Mentorship & Learning
 ```
 
-</div>
-
 ---
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
 
 <!-- Compact Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemenong1/)
