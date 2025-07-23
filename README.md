@@ -90,14 +90,110 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 </p>
 
 ---
+## 🤝 Connect & Collaborate
 
-## 📫 How to Reach Me
-- Email: [clemenongjunkai@gmail.com](mailto:clemenongjunkai@gmail.com)
-- LinkedIn: [clemenong1](https://www.linkedin.com/in/clemenong1/)
+<div align="center">
+
+<!-- Social Media Links with Custom Styling -->
+<a href="https://www.linkedin.com/in/clemenong1/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://instagram.com/your-instagram-handle">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
+</a>
+<a href="https://twitter.com/your-twitter-handle">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="40"/>
+</a>
+<a href="https://your-portfolio-url.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio" height="40"/>
+</a>
+
+</div>
 
 ---
 
-<!-- Optional Footer Quote or Fun Fact -->
+<div align="center">
+
+### 💌 Let's Build Something Amazing Together!
+
+*"The future belongs to those who believe in the beauty of their dreams."*
+
+---
+
+### 📬 Get In Touch
+
+📧 **Email:** [clemenongjunkai@gmail.com](mailto:clemenongjunkai@gmail.com)
+🌐 **Location:** Available for remote collaboration worldwide
+
+---
+
+### 🎯 Open For
+
+```yaml
+Collaboration:
+  - Open Source Projects
+  - Hackathons & Competitions  
+  - Mobile App Development
+  - AI/ML Research Projects
+  - Tech for Good Initiatives
+
+Opportunities:
+  - Software Engineering Internships
+  - Full-Stack Development Roles
+  - AI Engineer Positions
+  - Freelance Projects
+  - Mentorship & Learning
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge" alt="Profile Views" height="35"/>
+
+---
+
+### ⭐ From [Clemen](https://github.com/your-github-username) 
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" height="28"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" height="28"/>
+
+---
+
 <p align="center">
-  <i>"Relentless Curiousity, Boundless Innovation."</i>
+  <i>"Relentless Curiosity, Boundless Innovation."</i>
 </p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer Wave"/>
+
+</div>
+
+---
+
+### 🚀 Alternative Compact Version
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+<!-- Compact Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clemenong1/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clemenongjunkai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+
+### 💌 Let's Build Something Amazing Together!
+
+*"Relentless Curiosity, Boundless Innovation."*
+
+**📧 Email:** clemenongjunkai@gmail.com  
+**🌐 Location:** Available for remote collaboration worldwide
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=667eea&style=flat-square)
+
+</div>
