@@ -60,18 +60,22 @@ I'm Ong Jun Kai Clemen, a passionate developer and NUS Computer Science undergra
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_title=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=clemenong1&show_icons=true&theme=react&hide_title=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemenong1&layout=compact&theme=react" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark" height="200"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=clemenong1&theme=react-dark" height="200"/>
 </p>
+
 ---
+
 ## 📫 How to Reach Me
 - Email: [clemenongjunkai@gmail.com](mailto:clemenongjunkai@gmail.com)
 - LinkedIn: [clemenong1](https://www.linkedin.com/in/clemenong1/)
+
 ---
+
 <!-- Optional Footer Quote or Fun Fact -->
 <p align="center">
-  <i>"Building code, building connections, building a better world."</i>
+  <i>"Relentless Curiousity, Boundless Innovation."</i>
 </p>
